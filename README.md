@@ -1,5 +1,5 @@
 # JavaScript Superstack
-A ready-to-go JavaScript instance with front-end, database, and accouterments.
+A ready-to-go JavaScript app instance with front-end, database, and accouterments.
 
 ## 🚧 Under Construction 🚧
 
